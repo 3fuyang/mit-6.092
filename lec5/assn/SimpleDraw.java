@@ -1,4 +1,4 @@
-package lec5.assignments;
+package lec5.assn;
 
 import java.awt.Color;
 import java.awt.Dimension;
