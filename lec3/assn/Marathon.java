@@ -1,4 +1,4 @@
-package lec3.assignments;
+package lec3.assn;
 
 class Marathon {
   public static void main(String[] arguments) {

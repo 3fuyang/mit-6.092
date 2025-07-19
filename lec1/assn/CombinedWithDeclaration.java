@@ -1,4 +1,4 @@
-package lec1.assignments;
+package lec1.assn;
 
 public class CombinedWithDeclaration {
   public static void main(String[] args) {

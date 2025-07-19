@@ -1,4 +1,4 @@
-package lec1.assignments;
+package lec1.assn;
 
 import java.util.Scanner;
 
